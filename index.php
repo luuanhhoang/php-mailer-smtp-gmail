@@ -11,7 +11,7 @@ try {
     $Lah_mail->Host = 'smtp.gmail.com';
     $Lah_mail->SMTPAuth = true;
     $Lah_mail->Username = 'luuanhhoangdvfb.vpbq@gmail.com'; //email
-    $Lah_mail->Password = 'nwmt hmbt vggh fbsw'; // password 
+    $Lah_mail->Password = ''; // password 
     $Lah_mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; 
     $Lah_mail->Port = 465;
 
