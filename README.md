@@ -13,7 +13,7 @@ Dự án này là một ví dụ đơn giản về cách sử dụng PHPMailer �
 
 1. Clone repo này về máy của bạn:
    ```bash
-   git clone https://github.com/yourusername/php-smtp-email-sender.git
+   git clone https://github.com/luuanhhoang/php-mailer-smtp-gmail/
    cd php-smtp-email-sender
 Cài đặt PHPMailer qua Composer:
 
